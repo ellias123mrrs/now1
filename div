@@ -1,0 +1,12 @@
+div  {
+   height: 500px;
+   width: 500px;
+   background-color:yellow;
+   background-image: url(http://ih.constantcontact.com/fs144/1109696887834/img/229.jpg?a=1113591686580);
+}
+div:hover {background-color: black; }
+nav ul li {display: inline-block;}
+@media screen and (max-width: 360px) {
+    body {
+         background-color: lightblue;
+    }
